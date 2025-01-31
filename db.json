@@ -1,0 +1,20 @@
+{
+  "chessboard": [
+    {
+      "position": "a3",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "piece": "knight",
+      "color": "black",
+      "position": "b8"
+    },
+    {
+      "id": "3",
+      "piece": "king",
+      "color": "white",
+      "position": "e1"
+    }
+  ]
+}
